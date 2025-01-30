@@ -1,3 +1,4 @@
 # apnacollege-demo
 this is my apna-college demo repository
-"\n"Author KAMAL KUMAR
+<br>
+Author KAMAL KUMAR
